@@ -1,2 +1,4 @@
 This game will run in Unity 3D (2020.1.4f1 version).
 Open unity add project in the engine and then open the scene file and run it.
+
+You can also run Builds from the builds folder to direct play the game.
